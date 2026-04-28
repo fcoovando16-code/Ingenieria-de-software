@@ -240,6 +240,4 @@ Como resultado de este ejercicio se obtiene:
 - Reglas de negocio claras  
 - Requerimientos no funcionales iniciales  
 - Priorización de funcionalidades  
-- Criterios de aceptación definidos  
-
-Esto constituye una base sólida para continuar con el modelado UML, especificación detallada y diseño de arquitectura.
+- Criterios de aceptación definidos
