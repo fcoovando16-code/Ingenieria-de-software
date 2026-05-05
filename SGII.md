@@ -231,13 +231,3 @@ Enumerar y detallar cada uno.
   - **Then:** genera una alerta automática  
 
 ---
-
-## Conclusión
-
-Como resultado de este ejercicio se obtiene:
-
-- Identificación de actores del sistema  
-- Reglas de negocio claras  
-- Requerimientos no funcionales iniciales  
-- Priorización de funcionalidades  
-- Criterios de aceptación definidos
