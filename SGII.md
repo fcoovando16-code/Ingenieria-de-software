@@ -132,7 +132,11 @@ Enumerar y detallar cada uno.
 ### Casos de uso automatizados del sistema
 
 - **CU9:** Generar alertas automáticas  
-- **CU10:** Generar orden automática a proveedores  
+- **CU10:** Generar orden automática a proveedores
+
+### Diagrama casos de uso
+
+![alt text](image-2.png)
 
 ---
 
@@ -231,3 +235,7 @@ Enumerar y detallar cada uno.
   - **Then:** genera una alerta automática  
 
 ---
+
+## I. Diagrama de clases
+
+![alt text](image-1.png)
